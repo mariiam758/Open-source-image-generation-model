@@ -18,7 +18,7 @@ It works on **CPU-only machines** and requires no GPU or cloud APIs.
 
 ## 📸 Demo Screenshot
 
-![screenshot](demo_creenshot.png) 
+![screenshot](demo_screenshot.png) 
 
 ---
 
