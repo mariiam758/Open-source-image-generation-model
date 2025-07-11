@@ -31,18 +31,20 @@ It works on **CPU-only machines** and requires no GPU or cloud APIs.
 ```bash
 git clone https://github.com/yourusername/open-source-image-generator.git
 cd open-source-image-generator
+```
 
 2. Create a virtual environment (optional but recommended):
 
 ```bash
 python -m venv venv
 venv\Scripts\activate  # On Windows
+```
 
 3. Install dependencies (CPU-only version):
 
 ```bash
 pip install -r requirements.txt --index-url https://download.pytorch.org/whl/cpu
-
+```
 
 ---
 
@@ -50,15 +52,18 @@ pip install -r requirements.txt --index-url https://download.pytorch.org/whl/cpu
 
 ```bash
 streamlit run app.py
-
-
+```
 
 ## File structure 
 
 ├── app.py                # Main Streamlit app
+
 ├── requirements.txt      # Dependency versions
+
 ├── README.md             # This file
+
 └── demo_screenshot.png   # Screenshot for GitHub
+
 └── output_screenshot.png   
 
 
