@@ -56,16 +56,15 @@ streamlit run app.py
 
 ## File structure 
 
+```bash
+
 ├── app.py                # Main Streamlit app
-
-├── requirements.txt      # Dependency versions
-
+├── requirements.txt      # Dependency version
 ├── README.md             # This file
-
 └── demo_screenshot.png   # Screenshot for GitHub
-
 └── output_screenshot.png   
 
+```
 
 ## License
 
